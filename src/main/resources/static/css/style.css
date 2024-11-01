@@ -1,0 +1,19 @@
+.container {
+    max-width: 500px;
+    margin: auto;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.value-display {
+    text-align: right;
+    font-size: 0.9em;
+    color: #555;
+    margin-top: -10px;
+}
+
+.card {
+    margin-top: 20px;
+}
