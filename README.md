@@ -37,7 +37,7 @@
 
 1. **프로젝트 클론**: 이 저장소를 로컬 시스템에 클론합니다.
    ```bash
-   git clone https://github.com/your-repository/solar-power-simulator.git
+   git clone https://github.com/highbelief/solar-power-simulator.git
    cd solar-power-simulator
    ```
 
